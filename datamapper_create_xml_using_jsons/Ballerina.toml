@@ -1,0 +1,8 @@
+[package]
+org = "samith"
+name = "datamapper_usecase"
+version = "0.1.0"
+title = "datamapper-usecase"
+
+[build-options]
+sticky = true

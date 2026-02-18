@@ -1,0 +1,8 @@
+{
+"tiers": {
+"platinum": {"priority": true, "discountPct": 10},
+"gold": {"priority": true, "discountPct": 5},
+"silver": {"priority": false, "discountPct": 2},
+"standard": {"priority": false, "discountPct": 0}
+}
+}
