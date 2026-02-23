@@ -1,0 +1,9 @@
+[package]
+org = "dulaj"
+name = "datamapper_scenario_4.3"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "datamapper-scenario-4.3"
+
+[build-options]
+sticky = true
