@@ -1,0 +1,36 @@
+<Shipment>
+	<Header>
+		<BoL>OOLU2746410910</BoL>
+		<Vessel>XIN DA YANG ZHOU</Vessel>
+	</Header>
+	<Legs>
+		<Leg>
+			<PortSeq>1</PortSeq>
+			<Port>SGSIN</Port>
+			<Events>
+				<Event>
+					<Code>UN</Code>
+					<When>2024-09-15T02:09:00Z</When>
+				</Event>
+				<Event>
+					<Code>L</Code>
+					<When>2024-09-15T06:00:00Z</When>
+				</Event>
+			</Events>
+		</Leg>
+		<Leg>
+			<PortSeq>2</PortSeq>
+			<Port>CNTXG</Port>
+			<Events>	
+				<Event>
+					<Code>A</Code>
+					<When>2024-09-16T08:30:00Z</When>
+				</Event>
+				<Event>
+					<Code>L</Code>
+					<When>2024-09-16T12:00:00Z</When>
+				</Event>
+			</Events>
+		</Leg>
+	</Legs>
+</Shipment>

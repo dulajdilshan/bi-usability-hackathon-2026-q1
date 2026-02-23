@@ -1,0 +1,7 @@
+{
+    "codes": {
+        "UN": "UNLOADED",
+        "L": "LOADED",
+        "A": "ARRIVED"
+    }
+}

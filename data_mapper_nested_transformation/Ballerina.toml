@@ -1,0 +1,9 @@
+[package]
+org = "boo"
+name = "data_mapper_nested_transformation"
+version = "0.1.0"
+distribution = "2201.13.1"
+title = "Data Mapper Nested Transformation"
+
+[build-options]
+sticky = true
