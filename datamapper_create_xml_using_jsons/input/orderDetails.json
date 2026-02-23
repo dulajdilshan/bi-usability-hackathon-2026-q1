@@ -1,0 +1,29 @@
+
+{
+"orders": [
+{
+"orderId": "A-90231",
+"customerId": "C-77",
+"currency": "USD",
+"meta": {"priorityTag": "gold", "channel": "web"},
+"items": [
+{"sku": "P-1001", "qty": 2, "price": 149.99},
+{"sku": "P-2003", "qty": 1, "price": 89.5},
+{"sku": "P-1001", "qty": 1, "price": 149.99}
+],
+"requested": {"giftWrap": true, "note": null}
+},
+{
+"orderId": "A-90232",
+"customerId": "C-88",
+"currency": "EUR",
+"meta": {"channel": "store"},
+"items": [
+{"sku": "P-3001", "qty": 3, "price": 39.99},
+{"sku": "P-3002", "qty": 2, "price": 29.99}
+],
+"requested": {"giftWrap": false, "note": "Birthday"}
+}
+]
+}
+

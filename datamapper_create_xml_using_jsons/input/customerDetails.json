@@ -1,0 +1,6 @@
+{
+"customers": [
+{"id": "C-77", "name": "Nimali Perera", "tier": "gold", "email": "n@x.io"},
+{"id": "C-88", "name": "Ravindu Silva", "tier": "silver", "email": "r@x.io"}
+]
+}
